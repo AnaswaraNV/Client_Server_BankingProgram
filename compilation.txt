@@ -1,0 +1,7 @@
+javac -d C:\com\seneca\f2017\data C:\com\seneca\f2017\data\Account.java
+javac -d C:\com\seneca\f2017\data C:\com\seneca\f2017\data\Bank.java
+https://www.ntu.edu.sg/home/ehchua/programming/java/J9c_PackageClasspath.html
+
+javac -cp . C:\edu\jav745\f2017\client\BankingClient.java 
+
+java -cp . edu.jav745.f2017.client.BankingClient 
